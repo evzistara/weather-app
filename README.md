@@ -7,4 +7,4 @@ This is a project based on the course Modern JavaScript from NetNinja.
 - JavaScript
 - AccuWeather API
 
-!(weather-app.png)
+![](weather-app.png)
